@@ -1,0 +1,5 @@
+plt.scatter(df.x, df.y)
+
+plt.xlabel("x")
+plt.ylabel("y")
+plt.title("title");
