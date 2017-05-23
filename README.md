@@ -3,6 +3,10 @@
 
 by W. Mendenhall and T. Sincich
 
+* (Amazon)[https://www.amazon.com/gp/product/B006RGZRM2]
+
+![Book Cover](https://images-na.ssl-images-amazon.com/images/I/31zP0yF0BOL._BO1,204,203,200_.jpg "Regression Analysis")
+
 ## Data
 
 Setup steps:
